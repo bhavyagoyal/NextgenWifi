@@ -1,0 +1,166 @@
+>>>>>>>>>>>>>>>> [['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::Address const&', 'ns3::NetDevice::PacketType', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['void', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::Address const&', 'ns3::NetDevice::PacketType', 'ns3::empty', 'ns3::empty', 'ns3::empty']]
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty >'
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:486: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd007824d10>
+  cls.add_constructor([param('uint8_t', 'type'), param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:497: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllFrom (params?);
+  [param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:502: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllTo (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:506: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyFrom (params?);
+  [param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:511: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyTo (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:680: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:685: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:775: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:780: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:794: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:824: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:837: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:892: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  [param('uint8_t *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:936: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1167: Warning: exception TypeLookupError(['ns3::Ptr< ns3::EventImpl > &'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd00765ad50>
+  cls.add_constructor([param('ns3::Ptr< ns3::EventImpl > const &', 'impl'), param('uint64_t', 'ts'), param('uint32_t', 'context'), param('uint32_t', 'uid')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1201: Warning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekEventImpl (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1260: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1325: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1330: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1397: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1414: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd007614bd0>
+  cls.add_constructor([param('uint8_t *', 'address')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1432: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1457: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::GetBytes (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1547: Warning: exception TypeLookupError(['ns3::Mac16Address'],) in wrapper public: retval? ???::MakeAutoconfiguredAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1557: Warning: exception TypeLookupError(['ns3::Mac64Address'],) in wrapper public: retval? ???::MakeAutoconfiguredAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1562: Warning: exception TypeLookupError(['ns3::Mac16Address'],) in wrapper public: retval? ???::MakeAutoconfiguredLinkLocalAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1572: Warning: exception TypeLookupError(['ns3::Mac64Address'],) in wrapper public: retval? ???::MakeAutoconfiguredLinkLocalAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1587: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1592: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1600: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Set (params?);
+  [param('uint8_t *', 'address')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1610: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd007558e10>
+  cls.add_constructor([param('uint8_t *', 'prefix')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1623: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::GetBytes (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1658: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1685: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyFrom (params?);
+  [param('uint8_t const *', 'buffer')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1690: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyTo (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1760: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1765: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1811: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::Node > const, std::vector< ns3::Ptr< ns3::Node > > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1824: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::Node > const, std::vector< ns3::Ptr< ns3::Node > > >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1912: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::Delete (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:1985: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2026: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeLookupError(['uint8_t [ 20 ]'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2157: Warning: exception TypeLookupError(['uint32_t &'],) in wrapper public: retval? ???::Diff (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2211: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  [param('uint8_t * const', 'data'), param('uint32_t', 'maxBytes'), param('uint32_t &', 'tsSec'), param('uint32_t &', 'tsUsec'), param('uint32_t &', 'inclLen'), param('uint32_t &', 'origLen'), param('uint32_t &', 'readLen')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2215: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('uint32_t', 'tsSec'), param('uint32_t', 'tsUsec'), param('uint8_t const * const', 'data'), param('uint32_t', 'totalLen')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2324: Warning: exception TypeLookupError(['ns3::Ptr< ns3::SimulatorImpl >', 'ns3::SimulatorImpl *'],) in wrapper public: retval? ???::GetImplementation (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2359: Warning: exception TypeLookupError(['ns3::Ptr< ns3::SimulatorImpl >', 'ns3::SimulatorImpl *'],) in wrapper public: retval? ???::SetImplementation (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2401: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2413: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd00738fb50>
+  cls.add_constructor([param('uint8_t *', 'start'), param('uint8_t *', 'end')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2421: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  [param('uint8_t *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2449: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2514: Warning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2593: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupByHashFailSafe (params?);
+  is_static=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeLookupError(['short unsigned int'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2794: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:2900: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:3019: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('ns3::Time', 't'), param('uint8_t const *', 'buffer'), param('uint32_t', 'length')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:3178: Warning: exception TypeLookupError(['ns3::RngStream *'],) in wrapper protected: retval? ???::Peek (params?) const;
+  is_const=True, visibility='protected')
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:3584: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4649: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: virtual retval? ???::AddLinkChangeCallback (params?) = 0;
+  is_pure_virtual=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4826: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Application >', 'ns3::Application *'],) in wrapper public: retval? ???::AddApplication (params?);
+  [param('ns3::Ptr< ns3::Application >', 'application')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4840: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Application >', 'ns3::Application *'],) in wrapper public: retval? ???::GetApplication (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4874: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::RegisterDeviceAdditionListener (params?);
+  [param('ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >', 'listener')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4882: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::UnregisterDeviceAdditionListener (params?);
+  [param('ns3::Callback< void, ns3::Ptr< ns3::NetDevice >, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >', 'listener')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4990: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd006ccc1d0>
+  cls.add_constructor([param('std::ostream *', 'os')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:4994: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::GetStream (params?);
+  [])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5006: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd006cccf90>
+  cls.add_constructor([param('uint8_t const *', 'buffer'), param('uint32_t', 'size'), param('bool', 'magic')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5008: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd006cccfd0>
+  cls.add_constructor([param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5049: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5054: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5109: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  deprecated=True, is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5128: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5133: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintByteTags (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5138: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintPacketTags (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5175: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5580: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: virtual retval? ???::AddLinkChangeCallback (params?);
+  is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5720: Warning: exception TypeLookupError(['ns3::Hash::Hash32Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd006af3750>
+  cls.add_constructor([param('ns3::Hash::Hash32Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/csma/bindings/modulegen__gcc_LP64.py:5737: Warning: exception TypeLookupError(['ns3::Hash::Hash64Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fd006afc810>
+  cls.add_constructor([param('ns3::Hash::Hash64Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/pybindgen-0.16.0.834/pybindgen/cppclass_typehandlers.py:1098: UserWarning: Returning shared pointers is dangerous!  The C++ API should be redesigned to avoid this situation.
+  warnings.warn("Returning shared pointers is dangerous!"

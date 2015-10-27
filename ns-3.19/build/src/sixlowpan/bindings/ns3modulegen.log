@@ -1,0 +1,181 @@
+>>>>>>>>>>>>>>>> [['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::Address const&', 'ns3::NetDevice::PacketType', 'ns3::empty', 'ns3::empty', 'ns3::empty'], ['bool', 'ns3::Ptr<ns3::NetDevice>', 'ns3::Ptr<ns3::Packet const>', 'unsigned short', 'ns3::Address const&', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty', 'ns3::empty']]
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::Address const &, ns3::NetDevice::PacketType, ns3::empty, ns3::empty, ns3::empty >'
+***** registering callback handler: 'ns3::Callback< bool, ns3::Ptr< ns3::NetDevice >, ns3::Ptr< ns3::Packet const >, unsigned short, ns3::Address const &, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:438: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633e75510>
+  cls.add_constructor([param('uint8_t', 'type'), param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:449: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllFrom (params?);
+  [param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:454: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyAllTo (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:458: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyFrom (params?);
+  [param('uint8_t const *', 'buffer'), param('uint8_t', 'len')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:463: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyTo (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:513: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:518: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:569: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:574: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:588: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:618: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:631: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:686: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  [param('uint8_t *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:730: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:916: Warning: exception TypeLookupError(['ns3::Ptr< ns3::EventImpl > &'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633d797d0>
+  cls.add_constructor([param('ns3::Ptr< ns3::EventImpl > const &', 'impl'), param('uint64_t', 'ts'), param('uint32_t', 'context'), param('uint32_t', 'uid')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:950: Warning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekEventImpl (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1009: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1074: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1079: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1146: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1163: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633cf4450>
+  cls.add_constructor([param('uint8_t *', 'address')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1181: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1206: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::GetBytes (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1296: Warning: exception TypeLookupError(['ns3::Mac16Address'],) in wrapper public: retval? ???::MakeAutoconfiguredAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1301: Warning: exception TypeLookupError(['ns3::Mac48Address'],) in wrapper public: retval? ???::MakeAutoconfiguredAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1306: Warning: exception TypeLookupError(['ns3::Mac64Address'],) in wrapper public: retval? ???::MakeAutoconfiguredAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1311: Warning: exception TypeLookupError(['ns3::Mac16Address'],) in wrapper public: retval? ???::MakeAutoconfiguredLinkLocalAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1316: Warning: exception TypeLookupError(['ns3::Mac48Address'],) in wrapper public: retval? ???::MakeAutoconfiguredLinkLocalAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1321: Warning: exception TypeLookupError(['ns3::Mac64Address'],) in wrapper public: retval? ???::MakeAutoconfiguredLinkLocalAddress (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1336: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1341: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1349: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Set (params?);
+  [param('uint8_t *', 'address')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1359: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633c7f250>
+  cls.add_constructor([param('uint8_t *', 'prefix')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1372: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::GetBytes (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1407: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1437: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1442: Warning: exception TypeLookupError(['__gnu_cxx::__normal_iterator< ns3::Ptr< ns3::NetDevice > const, std::vector< ns3::Ptr< ns3::NetDevice > > >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1525: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::Delete (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1598: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Deserialize (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1639: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeLookupError(['uint8_t [ 20 ]'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1827: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1839: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633b29b10>
+  cls.add_constructor([param('uint8_t *', 'start'), param('uint8_t *', 'end')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1847: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Read (params?);
+  [param('uint8_t *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1875: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Write (params?);
+  [param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:1940: Warning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2019: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupByHashFailSafe (params?);
+  is_static=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeLookupError(['short unsigned int'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2220: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2248: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2320: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2462: Warning: exception TypeLookupError(['ns3::RngStream *'],) in wrapper protected: retval? ???::Peek (params?) const;
+  is_const=True, visibility='protected')
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2653: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2714: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2754: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::GetDstInterface (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2759: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::GetDstPrefix (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2794: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::GetSrcInterface (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2799: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::GetSrcPrefix (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2824: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2837: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetDstInterface (params?);
+  [param('uint8_t const *', 'dstInterface')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2841: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetDstPrefix (params?);
+  [param('uint8_t const *', 'dstPrefix')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2865: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetSrcInterface (params?);
+  [param('uint8_t const *', 'srcInterface')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:2869: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetSrcPrefix (params?);
+  [param('uint8_t const *', 'srcPrefix')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3002: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3092: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyBlob (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3137: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3146: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::SetBlob (params?);
+  [param('uint8_t const *', 'blob'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3221: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:3492: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: virtual retval? ???::Print (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4291: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: virtual retval? ???::AddLinkChangeCallback (params?) = 0;
+  is_pure_virtual=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4306: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Channel >', 'ns3::Channel *'],) in wrapper public: virtual retval? ???::GetChannel (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4331: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Node >', 'ns3::Node *'],) in wrapper public: virtual retval? ???::GetNode (params?) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4396: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Node >', 'ns3::Node *'],) in wrapper public: virtual retval? ???::SetNode (params?) = 0;
+  is_pure_virtual=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4552: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb6334d3810>
+  cls.add_constructor([param('uint8_t const *', 'buffer'), param('uint32_t', 'size'), param('bool', 'magic')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4554: Warning: exception TypeConfigurationError('direction not given',) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb6334d3850>
+  cls.add_constructor([param('uint8_t const *', 'buffer'), param('uint32_t', 'size')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4595: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4600: Warning: exception TypeLookupError(['std::ostream *'],) in wrapper public: retval? ???::CopyData (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4655: Warning: exception TypeLookupError(['uint8_t *'],) in wrapper public: retval? ???::PeekData (params?) const;
+  deprecated=True, is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4674: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::Print (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4679: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintByteTags (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4684: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::PrintPacketTags (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4721: Warning: exception TypeConfigurationError('direction not given',) in wrapper public: retval? ???::Serialize (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4778: Warning: exception TypeLookupError(['ns3::Callback< void, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: virtual retval? ???::AddLinkChangeCallback (params?);
+  is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4797: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Channel >', 'ns3::Channel *'],) in wrapper public: virtual retval? ???::GetChannel (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4827: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Node >', 'ns3::Node *'],) in wrapper public: virtual retval? ???::GetNode (params?) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:4896: Warning: exception TypeLookupError(['ns3::Ptr< ns3::Node >', 'ns3::Node *'],) in wrapper public: virtual retval? ???::SetNode (params?);
+  is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:5080: Warning: exception TypeLookupError(['ns3::Hash::Hash32Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb633373c90>
+  cls.add_constructor([param('ns3::Hash::Hash32Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/sixlowpan/bindings/modulegen__gcc_LP64.py:5097: Warning: exception TypeLookupError(['ns3::Hash::Hash64Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7fb63337cd50>
+  cls.add_constructor([param('ns3::Hash::Hash64Function_ptr', 'hp')])

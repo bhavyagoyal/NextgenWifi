@@ -1,0 +1,13 @@
+>>>>>>>>>>>>>>>> []
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/config-store/bindings/modulegen__gcc_LP64.py:336: Warning: exception TypeLookupError(['ns3::AttributeConstructionList &'],) in wrapper protected: retval? ???::ConstructSelf (params?);
+  visibility='protected')
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/config-store/bindings/modulegen__gcc_LP64.py:386: Warning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/config-store/bindings/modulegen__gcc_LP64.py:465: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupByHashFailSafe (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/config-store/bindings/modulegen__gcc_LP64.py:924: Warning: exception TypeLookupError(['ns3::Hash::Hash32Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f2c2f695490>
+  cls.add_constructor([param('ns3::Hash::Hash32Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/config-store/bindings/modulegen__gcc_LP64.py:941: Warning: exception TypeLookupError(['ns3::Hash::Hash64Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f2c2f69b490>
+  cls.add_constructor([param('ns3::Hash::Hash64Function_ptr', 'hp')])
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::FileConfig cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::FileConfig'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))

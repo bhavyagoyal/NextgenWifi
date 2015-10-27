@@ -1,0 +1,65 @@
+>>>>>>>>>>>>>>>> []
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:358: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::Begin (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:363: Warning: exception TypeLookupError(['std::_List_const_iterator< ns3::AttributeConstructionList::Item >'],) in wrapper public: retval? ???::End (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:449: Warning: exception TypeLookupError(['ns3::Ptr< ns3::EventImpl > &'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f30b5008fd0>
+  cls.add_constructor([param('ns3::Ptr< ns3::EventImpl > const &', 'impl'), param('uint64_t', 'ts'), param('uint32_t', 'context'), param('uint32_t', 'uid')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:483: Warning: exception TypeConfigurationError('Either caller_owns_return or self.reference_existing_object must be given',) in wrapper public: retval? ???::PeekEventImpl (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:593: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::GenerateOutput (params?);
+  [param('std::ostream &', 'os')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:597: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::GenerateOutput (params?);
+  [param('std::ostream &', 'osControl'), param('std::ostream &', 'osData'), param('std::string', 'dataFileName')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:636: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::GenerateOutput (params?);
+  [param('std::ostream &', 'os')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:640: Warning: exception TypeLookupError(['std::ostream &'],) in wrapper public: retval? ???::GenerateOutput (params?);
+  [param('std::ostream &', 'osControl'), param('std::ostream &', 'osData'), param('std::string', 'dataFileName')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:669: Warning: exception TypeLookupError(['ns3::GnuplotDataset::Data *'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f30b4f9aa10>
+  visibility='protected')
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:805: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::Delete (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:883: Warning: exception TypeLookupError(['ns3::Ptr< ns3::SimulatorImpl >', 'ns3::SimulatorImpl *'],) in wrapper public: retval? ???::GetImplementation (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:918: Warning: exception TypeLookupError(['ns3::Ptr< ns3::SimulatorImpl >', 'ns3::SimulatorImpl *'],) in wrapper public: retval? ???::SetImplementation (params?);
+  is_static=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:1195: Warning: exception TypeLookupError(['ns3::Callback< ns3::ObjectBase *, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty, ns3::empty >'],) in wrapper public: retval? ???::GetConstructor (params?) const;
+  is_const=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:1274: Warning: exception TypeConfigurationError('Missing transfer_ownership option',) in wrapper public: retval? ???::LookupByHashFailSafe (params?);
+  is_static=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception TypeLookupError(['short unsigned int'],) in wrapper None
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2206: Warning: exception TypeLookupError(['std::_List_iterator< ns3::Ptr< ns3::DataCalculator > >'],) in wrapper public: retval? ???::DataCalculatorBegin (params?);
+  [])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2210: Warning: exception TypeLookupError(['std::_List_iterator< ns3::Ptr< ns3::DataCalculator > >'],) in wrapper public: retval? ???::DataCalculatorEnd (params?);
+  [])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2243: Warning: exception TypeLookupError(['std::_List_iterator< std::pair< std::basic_string< char, std::char_traits< char >, std::allocator< char > >, std::basic_string< char, std::char_traits< char >, std::allocator< char > > > >'],) in wrapper public: retval? ???::MetadataBegin (params?);
+  [])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2247: Warning: exception TypeLookupError(['std::_List_iterator< std::pair< std::basic_string< char, std::char_traits< char >, std::allocator< char > >, std::basic_string< char, std::char_traits< char >, std::allocator< char > > > >'],) in wrapper public: retval? ???::MetadataEnd (params?);
+  [])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:3209: Warning: exception TypeLookupError(['ns3::Hash::Hash32Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f30b47c6210>
+  cls.add_constructor([param('ns3::Hash::Hash32Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:3226: Warning: exception TypeLookupError(['ns3::Hash::Hash64Function_ptr'],) in wrapper <pybindgen.cppmethod.CppConstructor object at 0x7f30b47cf2d0>
+  cls.add_constructor([param('ns3::Hash::Hash64Function_ptr', 'hp')])
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:438: Warning: exception CodeGenerationError('ns3::StatisticalSummary cannot be constructed (class has pure virtual methods)',) in wrapper public: virtual void ns3::DataOutputCallback::OutputStatistic (std::string key, std::string variable, ns3::StatisticalSummary const * statSum) = 0;
+  is_pure_virtual=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2122: Warning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper public: virtual void ns3::DataCalculator::Output (ns3::DataOutputCallback & callback) const = 0;
+  is_pure_virtual=True, is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2665: Warning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper public: virtual void ns3::MinMaxAvgTotalCalculator< double >::Output (ns3::DataOutputCallback & callback) const;
+  is_const=True, is_virtual=True)
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:2831: Warning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper public: virtual void ns3::TimeMinMaxAvgTotalCalculator::Output (ns3::DataOutputCallback & callback) const;
+  is_const=True, is_virtual=True)
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper <pybindgen.CppClass 'ns3::DataOutputCallback'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::StatisticalSummary cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::StatisticalSummary'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::DataCalculator cannot be constructed (have pure virtual methods but no helper class)',) in wrapper <pybindgen.CppClass 'ns3::DataCalculator'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::DataOutputInterface cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::DataOutputInterface'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:321: Warning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper public: virtual void ns3::MinMaxAvgTotalCalculator< double >::Output (ns3::DataOutputCallback & callback) const;
+  register_Ns3MinMaxAvgTotalCalculator__Double_methods(root_module, root_module['ns3::MinMaxAvgTotalCalculator< double >'])
+bindings/python/ns3modulegen-modular.py:27: UserWarning: exception CodeGenerationError('ns3::Probe cannot be constructed (class has pure virtual methods)',) in wrapper <pybindgen.CppClass 'ns3::Probe'>
+  warnings.warn("exception %r in wrapper %s" % (exception, wrapper))
+/home/bhavya/Downloads/ns-allinone-3.19-submitted to vinay sir/ns-3.19/src/stats/bindings/modulegen__gcc_LP64.py:327: Warning: exception CodeGenerationError('ns3::DataOutputCallback cannot be constructed (have pure virtual methods but no helper class)',) in wrapper public: virtual void ns3::TimeMinMaxAvgTotalCalculator::Output (ns3::DataOutputCallback & callback) const;
+  register_Ns3TimeMinMaxAvgTotalCalculator_methods(root_module, root_module['ns3::TimeMinMaxAvgTotalCalculator'])
